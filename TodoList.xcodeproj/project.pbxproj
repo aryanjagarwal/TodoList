@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A55D9F62A1491A5006CF9C1 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A55D9F52A1491A5006CF9C1 /* HeaderView.swift */; };
 		7AC7B9E62A135E5F002697BD /* TodoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC7B9E52A135E5F002697BD /* TodoListApp.swift */; };
 		7AC7B9E82A135E5F002697BD /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC7B9E72A135E5F002697BD /* MainView.swift */; };
 		7AC7B9EA2A135E61002697BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AC7B9E92A135E61002697BD /* Assets.xcassets */; };
@@ -49,6 +50,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7A55D9F52A1491A5006CF9C1 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		7AC7B9E22A135E5F002697BD /* TodoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AC7B9E52A135E5F002697BD /* TodoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListApp.swift; sourceTree = "<group>"; };
 		7AC7B9E72A135E5F002697BD /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				7AC7BA262A1367E8002697BD /* LoginView.swift */,
 				7AC7BA282A136836002697BD /* RegisterView.swift */,
 				7AC7BA2A2A13687D002697BD /* ToDoListItemView.swift */,
+				7A55D9F52A1491A5006CF9C1 /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AC7BA272A1367E8002697BD /* LoginView.swift in Sources */,
+				7A55D9F62A1491A5006CF9C1 /* HeaderView.swift in Sources */,
 				7AC7B9E82A135E5F002697BD /* MainView.swift in Sources */,
 				7AC7BA3B2A136A1D002697BD /* RegisterViewViewModel.swift in Sources */,
 				7AC7BA232A136797002697BD /* ToDoListView.swift in Sources */,
